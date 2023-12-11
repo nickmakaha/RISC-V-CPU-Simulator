@@ -14,4 +14,4 @@ The simulation supports the following instructions:
 		JALR
 
 
-For testing purposes all final results were assumed to be stored in registers 10 and 11, but all registers can simply be printed out to get an overview of the entire register-file.
+For testing purposes all final results were assumed to be stored in registers 10 and 11, but all registers can simply be printed out to observe the values in each of them.
