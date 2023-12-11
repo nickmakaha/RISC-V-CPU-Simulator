@@ -14,4 +14,4 @@ The simulation supports the following instructions:
 		JALR
 
 
-All final results are stored in registers 10 and 11.
+For testing purposes all final results were assumed to be stored in registers 10 and 11, but all registers can simply be printed out to get an overview of the entire register-file.
