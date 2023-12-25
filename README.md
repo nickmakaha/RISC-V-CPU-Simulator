@@ -1,5 +1,5 @@
 # RISC-V-CPU-Simulator
-A simple implementation to simulate a CPU utilizing a 32bit RISC-V interpreter.
+A simple implementation to simulate a single-cycle CPU utilizing a 32bit RISC-V interpreter.
 
 The simulation supports the following instructions: 
 	  ADD,
